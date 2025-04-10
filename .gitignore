@@ -1,0 +1,19 @@
+# Android Studio
+.idea/
+.gradle/
+local.properties
+/.externalNativeBuild/
+/build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Android 4.x and earlier (optional)
+*.apk
+*.ap_ 
+
+# Misc
+.DS_Store
+*.log
